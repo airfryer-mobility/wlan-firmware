@@ -1,0 +1,8 @@
+Package: wlan-firmware
+Version: 1.1
+Section: utils
+Priority: optional
+Architecture: all
+Depends: coreutils, network-manager
+Maintainer: unmaintained <noreply@mail.example>
+Description: Firmware needed for WLAN
